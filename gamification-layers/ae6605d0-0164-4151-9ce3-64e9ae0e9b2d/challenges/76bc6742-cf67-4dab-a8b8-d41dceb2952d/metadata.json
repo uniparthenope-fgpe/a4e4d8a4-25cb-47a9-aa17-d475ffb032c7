@@ -1,1 +1,1 @@
-{"id":"76bc6742-cf67-4dab-a8b8-d41dceb2952d","name":"kit","description":"","refs":[],"mode":"TIME_BOMB","mode_parameters":[],"locked":true,"hidden":false,"difficulty":"BEGINNER","children":[]}
+{"id":"76bc6742-cf67-4dab-a8b8-d41dceb2952d","name":"kit","description":"","refs":["bc906816-3467-4b64-9f13-5abe0ea48da1"],"mode":"TIME_BOMB","mode_parameters":[],"locked":true,"hidden":false,"difficulty":"BEGINNER","children":[]}
