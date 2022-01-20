@@ -1,0 +1,1 @@
+{"id":"5800f6a5-6ba1-4633-a9cd-26f5c33c3f7e","name":"Unlock","triggers":[],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","49893f2f-8fbb-4372-b987-f40fbef9d1a9","state","OPENED"]}]}
